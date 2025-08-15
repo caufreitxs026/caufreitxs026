@@ -6,9 +6,9 @@
 
 ### Sobre mim
 
-Olá! Meu nome é Cauã de Araújo Freitas, um apaixonado por tecnologia cursando o 5º semestre de Ciência da Computação. Meu objetivo é atuar na área de Tecnologia da Informação, com foco em desenvolvimento de software e análise de dados.
+Olá! [cite_start]Meu nome é Cauã de Araújo Freitas, um apaixonado por tecnologia cursando o 5º semestre de Ciência da Computação[cite: 8, 9]. [cite_start]Meu objetivo é atuar na área de Tecnologia da Informação, com foco em desenvolvimento de software e análise de dados[cite: 6].
 
-Atualmente, trabalho como Analista de Suporte, onde tenho a oportunidade de desenvolver relatórios e dashboards com **Power BI, Python e Excel Avançado**, além de **automatizar rotinas com VBA** para otimizar processos. Busco uma oportunidade para aplicar e expandir minhas habilidades, contribuindo para projetos inovadores.
+[cite_start]Atualmente, trabalho como Analista de Suporte, onde tenho a oportunidade de desenvolver relatórios e dashboards com **Power BI, Python e Excel Avançado**, além de **automatizar rotinas com VBA** para otimizar processos[cite: 17, 18, 19]. Busco uma oportunidade para aplicar e expandir minhas habilidades, contribuindo para projetos inovadores.
 
 ---
 
@@ -16,10 +16,10 @@ Atualmente, trabalho como Analista de Suporte, onde tenho a oportunidade de dese
 
 <p align="left">
   <a href="https://linkedin.com/in/cauafreitas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
   </a>
   <a href="mailto:cauafreitas026@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="52" alt="gmail logo" />
   </a>
 </p>
 
