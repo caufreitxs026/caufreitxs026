@@ -58,12 +58,12 @@ Atualmente, trabalho como Analista de Suporte, onde tenho a oportunidade de dese
 ### Meu Status do Github
 
 <div align="center">
-  <a href="https://github.com/[SEU-USUARIO-GITHUB]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/caufreitxs026">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caufreitxs026&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caufreitxs026&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="contribution-graph" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU-USUARIO-GITHUB]&theme=dracula&hide_border=true" />
+  <img align="center" alt="contribution-graph" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=caufreitxs026&theme=dracula&hide_border=true" />
 </div>
 
 ---
@@ -72,6 +72,6 @@ Atualmente, trabalho como Analista de Suporte, onde tenho a oportunidade de dese
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[SEU-USUARIO-GITHUB]&theme=dracula&row=1&column=6" alt="Trofêus do GitHub"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=caufreitxs026&theme=dracula&row=1&column=6" alt="Trofêus do GitHub"/>
   </a>
 </p>
