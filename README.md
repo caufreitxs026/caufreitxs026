@@ -71,7 +71,7 @@ Atualmente, como Analista de Suporte, desenvolvo relatórios e dashboards com **
 
 ---
 
-### Estante de Troféus
+### Estante de Troféus 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
