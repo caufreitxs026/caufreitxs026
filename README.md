@@ -68,13 +68,3 @@ Atualmente, como Analista de Suporte, desenvolvo relatórios e dashboards com **
   <br>
   <img align="center" alt="Gráfico de contribuições" height="150" src="https://streak-stats.demolab.com/?user=caufreitxs026&theme=dracula&hide_border=true" />
 </div>
-
----
-
-### Estante de Troféus 
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=caufreitxs026&theme=dracula&row=1&column=7" alt="Trofêus do GitHub"/>
-  </a>
-</p>
