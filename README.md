@@ -66,5 +66,4 @@ Atualmente, como Analista de Suporte, desenvolvo relatórios e dashboards com **
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caufreitxs026&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
   </a>
   <br>
-  <img align="center" alt="Gráfico de contribuições" height="150" src="https://streak-stats.demolab.com/?user=caufreitxs026&theme=dracula&hide_border=true" />
 </div>
