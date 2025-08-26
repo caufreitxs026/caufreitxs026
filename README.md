@@ -1,23 +1,29 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Cauã%20de%20Araújo%20Freitas&fontColor=FFFFFF&fontSize=40&animation=fadeIn&fontAlign=50&fontAlignY=38"/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador com código" width="600"/>
+</p>
+
+---
+
 ### Sobre mim
 
-Olá! Sou **Cauã de Araújo Freitas**, estudante de Ciência da Computação apaixonado por resolver problemas com tecnologia. Meu foco é o desenvolvimento de software e a análise de dados, áreas onde busco aplicar e aprimorar constantemente minhas habilidades.
+Olá! Meu nome é Cauã de Araújo Freitas, um apaixonado por tecnologia cursando o 6º semestre de Ciência da Computação. Meu objetivo é atuar na área de Tecnologia da Informação, com foco em desenvolvimento de software e análise de dados.
 
-Atualmente, como Analista de Suporte, desenvolvo relatórios e dashboards com **Power BI, Python e Excel Avançado** e automatizo rotinas com **VBA** para otimizar processos. Estou pronto para colaborar em projetos inovadores e contribuir com soluções eficientes.
+Atualmente, trabalho como Analista de Suporte, onde tenho a oportunidade de desenvolver relatórios e dashboards com **Power BI, Python e Excel Avançado**, além de **automatizar rotinas com VBA** para otimizar processos. Busco uma oportunidade para aplicar e expandir minhas habilidades, contribuindo para projetos inovadores.
 
 ---
 
 ### Conecte-se Comigo!
 
-<div align="center" style="display:flex; justify-content:center; gap:20px;">
-  <a href="https://linkedin.com/in/cauafreitas" target="_blank" style="transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
+<p align="left">
+  <a href="https://linkedin.com/in/cauafreitas" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
   </a>
-  <a href="mailto:cauafreitas026@gmail.com" target="_blank" style="transition: transform 0.3s;">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Gmail"/>
+  <a href="mailto:cauafreitas026@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="52" alt="gmail logo" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -58,12 +64,23 @@ Atualmente, como Analista de Suporte, desenvolvo relatórios e dashboards com **
 
 ---
 
-### Meu Status do GitHub
+### Meu Status do Github
 
 <div align="center">
   <a href="https://github.com/caufreitxs026">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caufreitxs026&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caufreitxs026&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
-  </a>
-  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caufreitxs026&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caufreitxs026&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<!-- <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="contribution-graph" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=caufreitxs026&theme=dracula&hide_border=true" />
+</div>
+
+<!-- ---
+
+### Estante de Troféus
+
+<!-- <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=caufreitxs026&theme=dracula&row=1&column=6" alt="Trofêus do GitHub"/>
+  </a>
+</p> -->
