@@ -16,14 +16,14 @@ Atualmente, trabalho como Analista de Suporte, onde tenho a oportunidade de dese
 
 ### Conecte-se Comigo!
 
-<p align="left">
-  <a href="https://linkedin.com/in/cauafreitas" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <a href="https://linkedin.com/in/cauafreitas" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
   </a>
-  <a href="mailto:cauafreitas026@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="52" alt="gmail logo" />
+  <a href="mailto:cauafreitas026@gmail.com" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Gmail"/>
   </a>
-</p>
+</div>
 
 ---
 
