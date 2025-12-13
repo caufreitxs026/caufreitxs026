@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Olá! Sou **Cauã de Araújo Freitas**, estudante do 6º semestre de Ciência da Computação e apaixonado por transformar problemas complexos em soluções eficientes através de código.
+Olá! Sou **Cauã de Araújo Freitas**, estudante do 7º semestre de Ciência da Computação e apaixonado por transformar problemas complexos em soluções eficientes através de código.
 
 Atuo como **Analista de Suporte Computacional**, buscando expandir minha atuação para o **desenvolvimento Full Stack**, criando aplicações robustas e escaláveis.
 
