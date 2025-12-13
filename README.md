@@ -33,13 +33,6 @@ Git • GitHub • Linux • Streamlit • Docker
 
 ---
 
-## GitHub Profile Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caufreitxs026&theme=onestar&no-frame=true&row=1&column=6&title=Stars,Followers,Commits,Issues,PullRequest,Repositories" />
-</div>
-
----
 
 ## Certificações e Conquistas
 
